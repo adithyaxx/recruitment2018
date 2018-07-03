@@ -1,0 +1,6 @@
+0x6b3 - set $eax=0
+0x6c0 - set $eflags=0x243
+0x6fc - set $eflags=0x243
+0x749 - set $eflags=0x243 // set $eflags=0 (continue loop)
+
+SCSE-OFFSEC{Th3_Cur53_0f_1F_3153333}
